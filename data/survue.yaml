@@ -1,0 +1,7 @@
+train: /Users/vickydong/Desktop/5330/Final_project/datasets/images/train
+val: /Users/vickydong/Desktop/5330/Final_project/datasets/images/val
+
+names:
+  0: human
+  1: trafficsign
+  2: vehicle
